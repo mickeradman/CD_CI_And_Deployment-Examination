@@ -28,10 +28,13 @@ Acceptanskriterier
 ---
 
 User story
-- Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
+- Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
 
 Acceptanskriterier
-- 
+- En skicka beställning-knapp.
+- Efter att skicka beställning-knappen tryckts på ska fyra fält visas. Ett för datum och tid, ett för antal personer, ett för antal banor och ett för bokningsnummer.
+- Förutom ovannämnda fyra fält ska även en ruta med totalsumman visas.
+- En bekräftelse-knapp ska visas längst ned på sidan.
 
 ---
 
@@ -39,4 +42,4 @@ User story
 - Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 
 Acceptanskriterier
-- 
+- En meny-knapp ska visas högst upp till vänster. Där ska man kunna trycka för att få upp två länkar/navigationsmöjligheter - en till bokningsvyn och en till bekräftelsevyn.
