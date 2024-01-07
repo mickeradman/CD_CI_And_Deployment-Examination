@@ -14,6 +14,7 @@ User story
 
 Acceptanskriterier
 - För varje par skor ska man kunna "klicka ut" ett nytt fält på skärmen som man sedan få fylla i skostorlek i.
+- Om det finns fler än ett fält för skor ska man kunna ta bort övriga "skofält" via en knapp.
 - Det ska finnas en knapp för att klicka ut ett nytt fält.
 - Antal (ifyllda) fält för skostorlek ska motsvara det antal som angivits i fältet för antal spelare.
 
